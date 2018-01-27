@@ -52,6 +52,11 @@ The directory examples contains several several examples based on a capture file
 * smallFlows-aggregated.txt - aggregated flow statistics in csv format
 * smallFlows-aggregated.xlsx - aggregated flow statistics in xlsx format
 
+## ToDo
+
+* life packet capturing
+* individual color scheme for excel file
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/grindsa/session-stat/blob/master/CONTRIBUTING.md) for details on my code of conduct, and the process for submitting pull requests.
